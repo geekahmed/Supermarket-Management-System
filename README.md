@@ -10,4 +10,4 @@ Also this project uses structs as a data model to encapsulate the items properti
 
 --------------------------------------------------------
 **Project Report:** 
-[Find It Here](Supermarket-Management-System-Report.pdf)
+[Find It Here](Project-Report/Supermarket-Management-System-Report.pdf)
